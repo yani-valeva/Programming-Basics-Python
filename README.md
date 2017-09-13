@@ -10,4 +10,6 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 - Simple Conditional Statements - https://github.com/yani-valeva/Programming-Basics-Python/tree/master/SimpleConditionalStatements
 Description of problems - https://softuni.bg/trainings/resources/officedocument/14866/exercise-problem-descriptions-python-basics-may-2017;
 
-- Final exam - https://github.com/yani-valeva/Programming-Basics-Python/tree/master/exam.
+- Final exam - https://github.com/yani-valeva/Programming-Basics-Python/tree/master/exam;
+
+- Exam 03.09.2017 - https://github.com/yani-valeva/Programming-Basics-Python/tree/master/Exam3September.
