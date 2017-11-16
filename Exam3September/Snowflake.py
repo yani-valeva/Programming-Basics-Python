@@ -14,6 +14,6 @@ inner_dots += 1
 outer_dots -= 1
 
 for i in range(1, number):
-    print('.' * outer_dots + '*' + '.' * inner_dots + '*' + '.' * inner_dots + '*' + '.' * outerDots)
+    print('.' * outer_dots + '*' + '.' * inner_dots + '*' + '.' * inner_dots + '*' + '.' * outer_dots)
     inner_dots += 1
     outer_dots -= 1
