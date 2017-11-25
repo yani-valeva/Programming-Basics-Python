@@ -14,4 +14,5 @@ Description of problems - https://softuni.bg/trainings/resources/officedocument/
 
 - Exam 03.09.2017 - https://github.com/yani-valeva/Programming-Basics-Python/tree/master/Exam3September;
 
-- Exam 17.09.2017 - https://github.com/yani-valeva/Programming-Basics-Python/tree/master/Exam17Sept.
+- Exam 17.09.2017 - https://github.com/yani-valeva/Programming-Basics-Python/tree/master/Exam17Sept;
+- Exam 5.11.2017 - https://github.com/yani-valeva/Programming-Basics-Python/tree/master/Exam5November.
